@@ -3,11 +3,9 @@
 > I’m an android developer with plus 3 years of experience in developing native android apps. I have delivered a lot of good and nice Android apps with high quality, fast speed performance. I think there is no limits in programming, I think I am a good team player, ambitious, systematic in thinking and can troubleshoot problems excellently.
 > 
 
-### 🔭 I’m currently working 
-Android Engineer @upwork
+### 🔭 I’m currently working Android Engineer @upwork
 
-### 📫 How to reach me
-  ashraaf.mahmoud@gmail.com
+### 📫 How to reach me 
 * [**Linkedin**](https://www.linkedin.com/in/mahmoud-ashraf-588444103/)
 * [**twitter**](https://twitter.com/droidmah)
 <!--
