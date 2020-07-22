@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hello. I'm Mahmoud 👋
 
+> I’m an android developer with plus 3 years of experience in developing native android apps. I have delivered a lot of good and nice Android apps with high quality, fast speed performance. I think there is no limits in programming, I think I am a good team player, ambitious, systematic in thinking and can troubleshoot problems excellently.
+> 
+
+### 🔭 I’m currently working 
+Android Engineer @upwork
+
+### 📫 How to reach me
+  ashraaf.mahmoud@gmail.com
+* [**Linkedin**](https://www.linkedin.com/in/mahmoud-ashraf-588444103/)
+* [**twitter**](https://twitter.com/droidmah)
 <!--
 **mahmoudashrafmohamed/mahmoudashrafmohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
