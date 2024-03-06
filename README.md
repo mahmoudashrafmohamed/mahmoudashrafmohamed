@@ -1,9 +1,12 @@
 ### Hello. I'm Mahmoud 👋
+<p align="start">
+<img src="https://komarev.com/ghpvc/?username=mahmoudashrafmohamed" align="start"/>	
+</p>
 
-> I’m an android developer with plus 6 years of experience in developing native android apps. I have delivered a lot of good and nice Android apps with high quality, fast speed performance. I think there is no limits in programming, I think I am a good team player, ambitious, systematic in thinking and can troubleshoot problems excellently.
+> I’m an android developer with plus 7 years of experience in developing native android apps. I have delivered a lot of good and nice Android apps with high quality, fast speed performance. I think there is no limits in programming, I think I am a good team player, ambitious, systematic in thinking and can troubleshoot problems excellently.
 > 
 
-### 🔭 I’m currently working Android Engineer @upwork
+### 🔭 I’m currently working Senior Android Engineer @Turing
 
 ### 📫 How to reach me 
 * [**Linkedin**](https://www.linkedin.com/in/mahmoud-ashraf-588444103/)
